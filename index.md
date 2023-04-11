@@ -33,7 +33,7 @@ Back office IT transformation
 
 ## 👨🏽‍🎓 Education
 
-**Level 4 Devops Apprenticeship** CI/CD, Containerisation, Kubernetes, Azure<br>
+**Level 4 Devops Apprenticeship - Distinction** CI/CD, Containerisation, Kubernetes, Azure<br>
 [Corndel](https://www.corndel.com/corndel-apprenticeships/devops/) - London, England _(October 2020 - June 2021)_ <br>
 
 **Mathematics BSc 1st Class** Analysis, Algebra, Probability, Machine Learning, Finance<br>
@@ -48,8 +48,8 @@ Back office IT transformation
 ## ✨ Hobbies & Interests
 
 🏋🏽‍ Gym + Fitness<br>
-✈️ Cooking<br>
-👨🏽‍🍳 Travelling<br>
+✈️ Travelling<br>
+👨🏽‍🍳 Cooking<br>
 🏀 Basketball<br>
 🏓 Table Tennis<br>
 ⚽️ Football<br>
