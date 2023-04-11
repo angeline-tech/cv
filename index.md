@@ -37,7 +37,13 @@ Back office IT transformation
 [Corndel](https://www.corndel.com/corndel-apprenticeships/devops/) - London, England _(October 2020 - June 2021)_ <br>
 
 **Mathematics BSc 1st Class** Analysis, Algebra, Probability, Machine Learning, Finance<br>
-[University of Warwick]() - Coventry, England _(October 2016 - June 2019)_ <br>
+[University of Warwick](https://warwick.ac.uk/) - Coventry, England _(October 2016 - June 2019)_ <br>
+
+**A-Levels** Maths A*, Further Maths A*, Physics A*, Chemistry (AS-Level) A  <br>
+[The Palmer Catholic Academy](https://www.tpc.academy/) - London, England _(September 2014 - June 2016)_ <br>
+
+**GCSEs** 8 A*s, 3As <br>
+[The Palmer Catholic Academy](https://www.tpc.academy/) - London, England _(September 2014 - June 2016)_ <br>
 
 ## ✨ Hobbies & Interests
 
