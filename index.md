@@ -6,19 +6,45 @@ _Software engineer based in London  🇬🇧_ <br>
 
 ## 👨🏽‍💻 Engineering Experience
 
-**Full Stack Engineer** @ [Credit Suisse](https://www.credit-suisse.com/uk/en.html) _(October 2020 - Present)_ <br>
+**Full Stack Engineer (AVP)** @ [Credit Suisse](https://www.credit-suisse.com/uk/en.html) _(October 2020 - Present)_ <br>
 Mission Critical Equity Derivatives Risk Platform
-- Crucial role in cloud transformation
-- **_Technologies used:_** Java, Kotlin, Python, GitLab, Terraform, Azure, Linux, Python
+- Led the migration from TeamCity to Gitlab for CI/CD
+- Played a crucial role in the Cloud Transformation (Azure)
+- Rapid delivery of business features whilst maintaining platform stability
+- Dealing with support queries and production issues
+- Increasing automation + Promoting DevOps Culture
+- **_Technologies used:_** Java, Kotlin, Python, GitLab, Terraform, Azure, Linux, Python, Docker, Bash
+  <br><br>
+
+**Graduate Technical Analyst** @ [Credit Suisse](https://www.credit-suisse.com/uk/en.html) _(June 2019 - October 2020)_ <br>
+Back office IT transformation
+- Migration away from Excel Spreadsheets to fully IT owned system
+- Gathering and documenting user needs
+- Greenfield Full Stack Web Application to view data
+- **_Technologies used:_** Java, Spring, Angular, SQL, Jenkins, Confluence
   <br><br>
 
 ## 💬 Languages
 
 🇬🇧 **English**: Native <br>
-🇫🇷 **French**: Basic 
+🇫🇷 **French**: Basic <br>
+🇲🇺 **Mauritian Creole**: Basic
 <br><br>
 
 ## 👨🏽‍🎓 Education
 
 **Level 4 Devops Apprenticeship** CI/CD, Containerisation, Kubernetes, Azure<br>
 [Corndel](https://www.corndel.com/corndel-apprenticeships/devops/) - London, England _(October 2020 - June 2021)_ <br>
+
+**Mathematics BSc 1st Class** Analysis, Algebra, Probability, Machine Learning, Finance<br>
+[University of Warwick]() - Coventry, England _(October 2016 - June 2019)_ <br>
+
+## ✨ Hobbies & Interests
+
+🏋🏽‍ Gym + Fitness<br>
+✈️ Cooking<br>
+👨🏽‍🍳 Travelling<br>
+🏀 Basketball<br>
+🏓 Table Tennis<br>
+⚽️ Football<br>
+🎸 Guitar<br>
