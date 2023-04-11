@@ -17,7 +17,7 @@ Mission Critical Equity Derivatives Risk Platform
   <br><br>
 
 **Graduate Technical Analyst** @ [Credit Suisse](https://www.credit-suisse.com/uk/en.html) _(June 2019 - October 2020)_ <br>
-Back office IT transformation
+Back Office IT Transformation
 - Migration away from Excel Spreadsheets to fully IT owned system
 - Gathering and documenting user needs
 - Greenfield Full Stack Web Application to view data
@@ -46,7 +46,6 @@ Back office IT transformation
 [The Palmer Catholic Academy](https://www.tpc.academy/) - London, England _(September 2014 - June 2016)_ <br>
 
 ## ✨ Hobbies & Interests
-
 🏋🏽‍ Gym + Fitness<br>
 ✈️ Travelling<br>
 👨🏽‍🍳 Cooking<br>
