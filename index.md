@@ -8,19 +8,27 @@ _Software engineer based in London  🇬🇧_ <br>
 
 **Full Stack Engineer (AVP)** @ [Credit Suisse](https://www.credit-suisse.com/uk/en.html) _(October 2020 - Present)_ <br>
 Mission Critical Equity Derivatives Risk Platform
+- Senior Developer primarily working on the main orchestration engine for the Risk Platform
+- Using agile to ensure rapid delivery of business features for stakeholders
 - Led the migration from TeamCity to Gitlab for CI/CD
+- End of Life infrastructure migrations
 - Played a crucial role in the Cloud Transformation (Azure)
-- Rapid delivery of business features whilst maintaining platform stability
+- Made progress on breaking down the monolithic orchestration engine into smaller microservices
+- Using TDD to give confidence when making changes; Increasing velocity whilst maintaining platform stability
 - Dealing with support queries and production issues
-- Increasing automation + Promoting DevOps Culture
-- **_Technologies used:_** Java, Kotlin, Python, GitLab, Terraform, Azure, Linux, Python, Docker, Bash
+- Increasing automation and promoting a DevOps Culture
+- Attending conferences and staying up to date with industry trends 
+- Pair/Mob programming to spread knowledge and create a culture of consistently high quality and maintainable code.
+- Mentoring junior members of the team
+- Organizing team social events and promoting a friendly, diverse and inclusive working environment.
+- **_Technologies used:_** Java, Kotlin, Python, GitLab, Splunk, Grafana, Terraform, Packer, Azure, OpenShift, Linux, Docker, Jira
   <br><br>
 
 **Graduate Technical Analyst** @ [Credit Suisse](https://www.credit-suisse.com/uk/en.html) _(June 2019 - October 2020)_ <br>
 Back Office IT Transformation
-- Migration away from Excel Spreadsheets to fully IT owned system
+- Migration away from Excel Spreadsheets to a fully IT owned system
 - Gathering and documenting user needs
-- Greenfield Full Stack Web Application to view data
+- Implemented a CRUD App to replace the spreadsheets 
 - **_Technologies used:_** Java, Spring, Angular, SQL, Jenkins, Confluence
   <br><br>
 
